@@ -1,0 +1,28 @@
+{
+  "date": "Tue Jul 25 2023 03:00:48 GMT+0700 (Western Indonesia Time)",
+  "error": "Ups",
+  "exception": true,
+  "level": "error",
+  "message": "unhandledRejection: Ups\n  No stack trace",
+  "os": { "loadavg": [0, 0, 0], "uptime": 980399.171 },
+  "process": {
+    "argv": [
+      "C:\\nodejs\\node.exe",
+      "C:\\Users\\Mantoki\\Documents\\belajar-nodejs-logging\\src\\logging-rejection.js"
+    ],
+    "cwd": "C:\\Users\\Mantoki\\Documents\\belajar-nodejs-logging",
+    "execPath": "C:\\nodejs\\node.exe",
+    "gid": null,
+    "memoryUsage": {
+      "arrayBuffers": 25806,
+      "external": 723748,
+      "heapTotal": 12214272,
+      "heapUsed": 8160776,
+      "rss": 41836544
+    },
+    "pid": 18744,
+    "uid": null,
+    "version": "v18.16.1"
+  },
+  "trace": []
+}
